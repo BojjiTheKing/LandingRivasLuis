@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="756c5e3c-5917-4faf-8223-f10285ec1912" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/java/com/alejandrorivas/popcornfactory_riivasmoreno/DetallePelicula.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/java/com/alejandrorivas/popcornfactory_riivasmoreno/InicioActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/java/com/alejandrorivas/popcornfactory_riivasmoreno/Pelicula.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-hdpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-ldpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-mdpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xhdpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxhdpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/a1917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/a1917header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/bighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/bones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/bonesheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/drhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/drwho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/drwhoheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/friendsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/headerbighero6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/househeader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/inception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/inceptionheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/leapyear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/leapyearheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/mib.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/mibheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/smallville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/smallvilleheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/suitsheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/toystory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/drawable-xxxhdpi/toystoryheader.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/layout/activity_detalle_pelicula.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/layout/activity_inicio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../popcornfactory_RiivasMoreno/app/src/main/res/layout/pelicula.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica04_welcomepage_RivasLuis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/java/com/alejandrorivas/practica4_welcomepage_rivasluis/PaginaLogin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/drawable-ldpi/hello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/drawable-ldpi/muffin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/drawable-ldpi/simpletitle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/drawable-ldpi/thecheezery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/drawable-ldpi/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica4_welcomepage_RivasLuis/app/src/main/res/layout/activity_pagina_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/app/src/main/java/com/alejandrorivas/asignacion4_calculadoraimc_rivasmoreno/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Asignacion4_CalculadoraIMC_RivasMoreno/app/src/main/java/com/alejandrorivas/asignacion4_calculadoraimc_rivasmoreno/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraPrueba/app/src/main/java/com/alejandrorivas/calculadoraprueba/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculadoraPrueba/app/src/main/java/com/alejandrorivas/calculadoraprueba/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculadoraPrueba/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculadoraPrueba/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conversor_RivasLuis/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conversor_RivasLuis/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conversor_RivasLuis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conversor_RivasLuis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Conversor_RivasLuis/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Conversor_RivasLuis/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenPrueba/app/src/main/java/com/alejandrorivas/examenprueba/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamenPrueba/app/src/main/java/com/alejandrorivas/examenprueba/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenPrueba/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamenPrueba/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\chapo\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyDigimind" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33OF8rGYIKqAukOtLOIFD6wfjgX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/chapo/Desktop/LandingRivasLuis/MyDigimind/app/src/main/res&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chapo\Desktop\LandingRivasLuis\MyDigimind\app\src\main\res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MyDigimind.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="756c5e3c-5917-4faf-8223-f10285ec1912" name="Changes" comment="" />
+      <created>1759180054592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759180054592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.rivasluis.mydigimind">
+          <value>
+            <CheckInfo lastCheckTimestamp="1759180064724" />
+          </value>
+        </entry>
+        <entry key="com.rivasluis.mydigimind.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1759180064730" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
